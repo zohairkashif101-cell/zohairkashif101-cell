@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Zohair Kashif! 👋
 
-<!--
-**zohairkashif101-cell/zohairkashif101-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Web Developer (Learning)
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Currently learning HTML, CSS & JavaScript
+- 🚀 Working on my first projects
+- 📍 Based in Karachi, Pakistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+## GitHub Stats
+![Zohair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zohairkashif101-cell&show_icons=true&theme=radical)
